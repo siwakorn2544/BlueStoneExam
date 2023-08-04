@@ -18,13 +18,13 @@ for job interviews
 ### Note Backend
 Backend use node.js express.js  mongoose dotenv and nodemailer.
 
-- env file not include in project and come with email
+- env file not include in project github, it will come with email
 - env should locate in Backend folder
 
 In case PORT 9121 in use, Please closed it and npm start again or setting new PORT for backend and fix PORT every fetch `http://localhost:YOURPORT` in frontend with the PORT you set.
 
 ### Database
-connect with MongoDB Compass
+In case to connect databsae use MongoDB Compass
         
         mongodb+srv://go2pete:<password>@cluster0.nyyxcno.mongodb.net/
 
