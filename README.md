@@ -19,7 +19,7 @@ Backend use node.js express.js  mongoose dotenv and nodemailer.
 - env file not include in project and come with email
 - env should locate in Backend folder
 
-In case PORT 9121 in use, Please closed it and npm start again or setting new PORT for backend and fix PORT every fetch `http://localhost:9121` in frontend with the PORT you set.
+In case PORT 9121 in use, Please closed it and npm start again or setting new PORT for backend and fix PORT every fetch `http://localhost:YOURPORT` in frontend with the PORT you set.
 
 ### Database
 connect with MongoDB Compass
