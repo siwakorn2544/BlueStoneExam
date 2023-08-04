@@ -2,12 +2,14 @@
 for job interviews 
 
 
- ### backend 
+ ### Start backend 
+- open Terminal in Visual studio Code
 - cd Backend
 - npm install 
 - npm start
   
-### frontend
+### Start frontend
+- open new Terminal in Visual studio Code
 - cd Frontend
 - cd BlueStoneExam
 - npm install
