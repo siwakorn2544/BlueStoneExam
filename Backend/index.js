@@ -31,4 +31,3 @@ app.listen(PORT, () => {
 
 
 module.exports = app
-console.log('Pass', EMAIL,PASSWORD)
