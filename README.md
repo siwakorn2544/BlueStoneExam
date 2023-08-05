@@ -29,3 +29,6 @@ In case to connect databsae use MongoDB Compass
         mongodb+srv://go2pete:<password>@cluster0.nyyxcno.mongodb.net/
 
 replace `<password>` with password in env file send with email
+
+### Mail nodemailer 
+In case you don't see OTP Code in inbox mail it'd might be in spam mail
